@@ -2,8 +2,8 @@
 
 int main ()
 {
-    //is it really hello world?!!!!
+    // Hello World!
     printf("Hello world!");
 
-    return 0;
+    return 1;
 }
